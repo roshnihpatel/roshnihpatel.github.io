@@ -1,4 +1,4 @@
-title: Jekyll Theme
+title: Roshni Patel Portfolio
 logo: /assets/images/logo.avif
 baseurl: /awesome-jekyll-theme
 
@@ -7,12 +7,12 @@ collections:
     output: true
 
 rrss:
-  email: "example@example.cl"
-  github: "https://github.com/"
-  telegram: "https://t.me/"
-  stackoverflow: "https://stackoverflow.com"
-  discord: "https://discord.com/"
-  mastodon: "https://lile.cl/"
+  email: "roshnihpatel@outloo.com"
+  github: "https://github.com/roshnihpatel"
+  linkedin: "https://www.linkedin.com/in/roshni-patel-069895216/"
+  #stackoverflow: "https://stackoverflow.com"
+  #discord: "https://discord.com/"
+  #mastodon: "https://lile.cl/"
 
 plugins:
   - jekyll-archives
