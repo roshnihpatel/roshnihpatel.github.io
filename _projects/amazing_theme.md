@@ -1,8 +1,9 @@
 ---
 layout: project
 title: Fine-Tune Small Language Model for Spanish Mnemonics Generation
-image: 'https://workable-dentist-613.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F552b43c9-1fd8-4d98-ba08-a101f94ef0b4%2Fe9c265f1-ad3c-4b40-be04-3ff52cd848f4%2Fimage.png?table=block&id=9ce0d45c-e98c-452c-bbfc-ab6710ed8b82&spaceId=552b43c9-1fd8-4d98-ba08-a101f94ef0b4&width=1420&userId=&cache=v2'
-tags:
+image: >-
+assets/images/logo.avif
+---
 
 This project was a solution to a personal challenge I faced while learning Spanish. I found sound associated mnemonics helpful for memorising spanish words, but creating the mnemonics was time consuming. I decided to fine-tune a Language Model to automatically generate sound association mnemonics from English words and their Spanish translations
 
