@@ -1,8 +1,7 @@
 ---
 layout: project
 title: Fine-Tune Small Language Model for Spanish Mnemonics Generation
-image: >-
-assets/images/logo.avif
+image: 'https://www.microsoft.com/en-us/research/uploads/prod/2023/12/Phi2-BlogHeroFeature-1400x788-1.jpg'
 ---
 
 This project was a solution to a personal challenge I faced while learning Spanish. I found sound associated mnemonics helpful for memorising spanish words, but creating the mnemonics was time consuming. I decided to fine-tune a Language Model to automatically generate sound association mnemonics from English words and their Spanish translations
