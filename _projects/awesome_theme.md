@@ -1,13 +1,10 @@
 ---
 layout: project
-title: Awesome Theme
-image: 'https://picsum.photos/900/400'
-category: Theme
-tags:
-  - tailwindcss
-  - html
+title: Minimax Tic Tac Toe Game
+image: 'https://github.com/user-attachments/assets/b1305091-1a82-4b56-adb1-d2fbba7a2855'
 ---
-Nunc eleifend dolor vitae lorem dictum rhoncus. Proin id pulvinar turpis, et eleifend quam.
+In this Python project, I've implemented a Tic-Tac-Toe game with a AI opponent using the Minimax algorithm. 
 
-Nulla odio nisl, sagittis et tortor non, aliquam vestibulum neque. Etiam eu venenatis sem. Morbi ex turpis, dictum sit amet commodo eget, egestas sed felis. In a purus et lacus mollis sagittis. Vivamus eu lectus non elit iaculis vehicula nec id tellus. Suspendisse blandit blandit risus a venenatis. Pellentesque sit amet lorem eu mi bibendum blandit quis sit amet eros. Sed lobortis sagittis tincidunt. Suspendisse pellentesque velit enim, sit amet auctor odio hendrerit sed. Aenean vestibulum metus in augue viverra, non consequat risus finibus. Cras eget bibendum odio. Phasellus eget ligula at sem vulputate eleifend a quis dolor. Pellentesque nibh ligula, hendrerit nec vulputate quis, pulvinar a mi. Cras condimentum eleifend erat quis vehicula.
+Minimax recursively explores every possible move for both players, and then selects the optimal move that either maximize the AI’s chance of winning or minimize its chance of losing. 
 
+You can find the project [here](https://github.com/roshnihpatel/minimax-tic-tac-toe) 
